@@ -1,29 +1,38 @@
-### Hi there, I'm Tamoki Loi 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/nguyen-lam-thanh-loi-858416141" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.facebook.com/loitamoki" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
-    </a>
     <a href="https://porfolio-tamoki-2022.vercel.app/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/porfolio-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Porfolio Badge"/>
+      <img src="https://img.shields.io/badge/porfolio-black?style=for-the-badge&logo=biolink&logoColor=white" alt="Porfolio Badge"/>
     </a>
-    <a href="tel:+84938947221" target="_self" rel="noreferrer">
-      <img src="https://img.shields.io/badge/contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact Badge"/>
+    <a href="https://www.facebook.com/loitamoki" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div>
+  
+  <img src="https://komarev.com/ghpvc/?username=TamokiLoi&style=flat-square&color=blue" alt=""/>
+  
+  <h1>
+    Hi there, I'm Tamoki Loi
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+
+</div>
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 <hr>
 
-- 🔭 I’m currently working on **StageIT Company**.
-- 🌱 I’m currently learning to improve skill Frontend Developer: reactjs, vuejs, angular...
-- 💬 About me: I'm a <span style="color: #64ffda;">**Frontend Developer**</span> and I enjoy creating things that live on the internet. I have 5+ years of experience in Web Development since 2018.
-Fast-forward to today, and I've had the privilege of working at an outsourcing, a start-up, a huge corporation and currently a product Singapore company.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I love to game, gunpla, manga, play with family...
+### :man: About Me :
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
+- :telescope: I’m working as a Frontend Developer for building web applications for **StageIT Company**.
+- :seedling: I enjoy creating things that live on the internet.
+- :zap: In my free time: I love to play game, gunpla, manga, play with family...
+
+### Skills
+
